@@ -1,0 +1,12 @@
+button {
+    margin: 10px;
+}
+
+body {
+    margin-top: 10px;
+}
+
+.hero-unit img {
+    border-radius: 5px;
+    border:1px solid #333;
+}
